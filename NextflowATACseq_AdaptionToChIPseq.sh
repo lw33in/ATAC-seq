@@ -1,9 +1,7 @@
 # Nextflow ATAC-seq peak-calling, QC and differential analysis pipeline (https://nf-co.re/atacseq)
 # Below are the steps to set up ATAC-seq on server
 
-#=====================================================================================
 # Adaptation to the ChIP-seq pipeline:
-#=====================================================================================
 # Create virtual environment
 python3 -m venv --system-site-packages chipseq
 
